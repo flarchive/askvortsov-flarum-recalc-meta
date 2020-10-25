@@ -1,0 +1,31 @@
+{
+  "name": "askvortsov/flarum-recalc-meta",
+  "description": "Recalculate Metadata",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "Askvortsov\\FlarumRecalcMeta\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Flarum Recalculate Metadata",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
