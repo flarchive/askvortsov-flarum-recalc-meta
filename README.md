@@ -1,27 +1,22 @@
 # askvortsov/flarum-recalc-meta (Archive)
 
-This repository is a permanent, read-only archive of released versions of `askvortsov/flarum-recalc-meta`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+> **Read-only archive of released versions of askvortsov/flarum-recalc-meta.** Not for installation: use [Packagist](https://packagist.org/packages/askvortsov/flarum-recalc-meta) or the [upstream repository](https://github.com/askvortsov1/flarum-recalc-meta).
 
-> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/askvortsov-flarum-recalc-meta/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
-> **Not affiliated with the Flarum Foundation or the Flarum project.**
+## Archived Versions
 
-## Archive Status
+| Version | Released | Flarum | Source |
+|---|---|---|---|
+| `v0.1.0` | 2020-10-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/askvortsov-flarum-recalc-meta/tree/archive/v0.1.0) |
 
-- **Latest Archived Release:** `v0.1.0`
-- **Target Flarum Compatibility:** `^0.1.0-beta.8`
-- **Declared License:** `MIT`
-- **Upstream Repository:** https://github.com/askvortsov1/flarum-recalc-meta.git
-- **All Archived Tags:** [View Tags](https://github.com/flarchive/askvortsov-flarum-recalc-meta/tags)
+Catalog entry: [packages/askvortsov-flarum-recalc-meta.json](https://github.com/flarchive/archive-index/blob/main/packages/askvortsov-flarum-recalc-meta.json)
 
-*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
+## About this archive
 
-## Archive Catalog
-
-- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/askvortsov-flarum-recalc-meta.json)
-- Upstream repository: https://github.com/askvortsov1/flarum-recalc-meta.git
-- Issues, pull requests, discussions, and wiki are disabled on this repository.
-
-See the Archive Index for policy, disclaimer, and takedown procedures:
-- [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md)
-- [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md)
+- **Immutability:** Archive versions are stored as protected tags and cannot be modified or overwritten.
+- **Main branch:** The `main` branch contains only this archive notice; source code is stored within each respective version tag.
+- **License:** The original license and copyright notices are preserved inside each archived version.
+- **As-is:** Archived code is provided as-is, without warranty of any kind. The archive does not maintain, test, or verify the safety of archived extensions, and is not responsible for broken, unmaintained, or insecure code.
+- **Independence:** This archive is an independent project and is not affiliated with, endorsed by, or sponsored by the Flarum Foundation or the Flarum project.
+- **Policies:** See [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md) and [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md) for takedown and exclusion procedures.
